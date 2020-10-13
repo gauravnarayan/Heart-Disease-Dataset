@@ -1,5 +1,7 @@
 # Heart Disease Dataset
- The dataset consists of 70,000 records , 11 feature variables  and a target variable
+https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
+
+The dataset consists of 70,000 records , 11 feature variables  and a target variable
 
 Variable description:
  
